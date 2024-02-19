@@ -1,3 +1,5 @@
 /sdf.egg-info
+.vscode
 *.stl
-
+*.png
+sdf/__pycache__
